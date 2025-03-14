@@ -11,7 +11,7 @@ Projeto simples de uma **agenda de contatos** desenvolvida com **Spring Boot** e
 - **Lombok**
 
 # 🚩 Endpoints da API
-Método	    Rota	              Descrição
+Método	    Rota	              Descrição\
 GET	     /contatos	      Lista todos os contatos\
 GET	    /contatos/{id}	  Busca contato por ID\
 POST	  /contatos	        Cria um novo contato\

@@ -11,12 +11,12 @@ Projeto simples de uma **agenda de contatos** desenvolvida com **Spring Boot** e
 - **Lombok**
 
 # 🚩 Endpoints da API
-Método	    Rota	              Descrição\
-GET	     /contatos	      Lista todos os contatos\
-GET	    /contatos/{id}	  Busca contato por ID\
-POST	  /contatos	        Cria um novo contato\
-PUT	    /contatos/{id}	  Atualiza um contato existente\
-DELETE	/contatos/{id}	  Remove um contato\
+Método-----Rota---------------Descrição\
+GET-----/contatos--------Lista todos os contatos\
+GET-----/contatos/{id}----Busca contato por ID\
+POST----/contatos---------Cria um novo contato\
+PUT-----/contatos/{id}----Atualiza um contato existente\
+DELETE--/contatos/{id}----Remove um contato\
 
 ## 📜 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar!

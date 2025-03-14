@@ -22,4 +22,4 @@ DELETE--/contatos/{id}----Remove um contato\
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar e modificar!
 
 ### 📌 Autor: Raphael Venancio Moraes 🚀
-### 📧 Contato: Seu Email ou LinkedIn
+### 📧 Contato: [https://www.linkedin.com/in/raphael-venancio-moraes/]
